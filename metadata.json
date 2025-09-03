@@ -1,0 +1,5 @@
+{
+  "name": "Academic Portal",
+  "description": "A comprehensive Academic Portal for students, faculty, and administrators to manage attendance, results, and user profiles with role-based access control, built with React, Firebase, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
